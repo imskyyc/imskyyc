@@ -1,7 +1,7 @@
 Greetings!
 ---
 
-I'm skyyc, or preferrably, Sky. I'm a programmer fluent in 5+ languages including
+I'm skyyc, or preferrably, Sky. I'm a programmer fluent in five languages including
 
 * PHP
 * Python
