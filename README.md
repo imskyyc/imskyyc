@@ -1,7 +1,7 @@
 Greetings!
 ---
 
-I'm skyyc, Sky, Jaiden, or whatever you'd like to call me! I'm a programmer fluent in five languages including
+I'm skyyc, Sky, Jenna, or whatever you'd like to call me! I'm a programmer fluent in five languages including
 
 * PHP
 * Python
